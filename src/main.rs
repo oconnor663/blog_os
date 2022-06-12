@@ -3,7 +3,7 @@
 
 use core::panic::PanicInfo;
 
-static HELLO: &[u8] = b"Hello World!";
+static HELLO: &[u8] = b"I love my beautiful wife!";
 
 #[panic_handler]
 fn panic(_info: &PanicInfo) -> ! {
